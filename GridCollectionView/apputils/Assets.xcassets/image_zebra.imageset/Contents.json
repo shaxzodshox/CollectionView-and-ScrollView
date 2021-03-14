@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Equus_quagga_burchellii_-_Etosha,_2014.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
